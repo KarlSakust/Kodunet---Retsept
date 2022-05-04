@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+body{
+    background-color: wheat;
+}
+
+.pealkiri{
+    color: orangered;
+    text-align: center;
+    font-family: 'Righteous', cursive;
+}
+.nimi{
+    color: orangered;
+    text-align: center;
+    font-family: 'Righteous', cursive;
+}
+.pilt{
+    display: block;
+    width: 650px;
+    border-radius: 60%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.link{
+    color: red;
+    border: 1px solid none;
+    
+    margin: 0 auto;
+}
+
+.tabel{
+    border: 5px solid skyblue;
+    margin: 0 auto;
+    border-style: ridge;
+}
+.divtabel{
+    color: orangered;
+}
+.juhend{
+border: 1px none black;
+width: 50%;
+margin: 0 auto;
+color: orangered;
+}
